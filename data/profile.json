@@ -8,36 +8,36 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/coach-wiki/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/coach-wiki/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/coach-wiki/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/coach-wiki/js-developer-portfolio/main/data/imgs/python.png"
+      },
+      {
+        "name": "Excel",
+        "logo": "https://raw.githubusercontent.com/coach-wiki/js-developer-portfolio/main/data/imgs/excel.png"
+      },
+      {
+        "name": "PowerBI",
+        "logo": "https://raw.githubusercontent.com/coach-wiki/js-developer-portfolio/main/data/imgs/powerbi.png"
       },
       {
         "name": "Angular",
         "logo": "https://raw.githubusercontent.com/coach-wiki/js-developer-portfolio/main/data/imgs/angular.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/coach-wiki/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/coach-wiki/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/coach-wiki/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "Html",
+        "logo": "https://raw.githubusercontent.com/coach-wiki/js-developer-portfolio/main/data/imgs/html.png"
       }
     ],
     "softSkills": [
-      "Empatia",
+      "Brainstorming",
       "Liderança",
-      "Trabalho em equipe",
+      "Estrategista",
       "Flexibilidade",
-      "Organização"
+      "Analitico"
     ]
   },
   "languages": [
@@ -48,31 +48,36 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Pokedex - Projeto da formação .JS",
+      "url": "https://github.com/coach-wiki/pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Curriculum Vitae - Projeto da formação .JS",
+      "url": "https://github.com/coach-wiki/cv",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Tecnologia da Informação ",
+      "period": "2023 - Momento",
+      "description": "Working on it..."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Treinador de League of Legends / P11 - Time Travelers - Italia",
+      "period": "02/2022-07/2022",
+      "description": "Experincia muito boa, clima agradavel"
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Treinador de League of Legends / EGN - Eletronic Esports - Portugal",
+      "period": "05/2021-09/2021",
+      "description": "Tive que passar conteudos em espanhol e ingles, foi uma ótima pratica"
+    },
+    {
+      "name": "Treinador de League of Legends / HYPE - Fonored Hyperion - Espanha",
+      "period": "06/2021-09/2021",
+      "description": "Minha primeira experiencia internacional"
     }
   ]
 }
