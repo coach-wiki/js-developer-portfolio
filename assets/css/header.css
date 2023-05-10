@@ -22,8 +22,18 @@
     width: 200px;
     height: 200px;
     border-radius: 50%;
+    border: 5500px;
 }
+.header .fire {
+    height: 400px;
+    width: 450px;
+    border: none;
+    position: absolute;
+    left: 2px;
+    bottom: -11%;
+    opacity: 50%;
 
+}
 .header .title {
     font-family: 'Neue Machina';
     text-align: center;
