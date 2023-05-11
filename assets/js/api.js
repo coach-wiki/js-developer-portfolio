@@ -1,7 +1,6 @@
+// Fetch usado para pegar dados de uma API, ele tb é uma função async
 
 async function fetchProfileData() {
-    const url = 'https://raw.githubusercontent.com/coach-wiki/js-developer-portfolio/main/data/profile.json';
-    const response = await fetch(url)
-    const profileData = await response.json()
-    return profileData
+    const response = await fetch('https://raw.githubusercontent.com/coach-wiki/js-developer-portfolio/main/data/profile.json')
+    return response.json()
 }
